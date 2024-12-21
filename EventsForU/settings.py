@@ -26,7 +26,7 @@ SECRET_KEY = '2e(l^e_xv_zo-52k(7o019pxvf%+n81&$s(vaxrrmo^a^i13*x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['eventmanagementsystem-khap.onrender.com, '127.0.0.1']
+ALLOWED_HOSTS = ['eventmanagementsystem-khap.onrender.com', '127.0.0.1']
 
 
 # Application definition
