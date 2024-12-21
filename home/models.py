@@ -24,7 +24,7 @@ class EventPage(models.Model):
     eventdate = models.IntegerField(default=1)
     eventday = models.TextField(default="")
     eventmonth = models.TextField(default="")
-    eventyear = models.IntegerField(default=2020)
+    eventyear = models.IntegerField(default=2024)
     organizer= models.CharField(max_length=122, default='')
 
     def __str__(self):
